@@ -10,7 +10,6 @@
 - Scan the contents of common directories (Documents, Downloads, Desktop)
 - Create new directories
 - Delete existing directories
-- Copy directories to new locations
 
 🔹 **File Operations**
 - Create and delete files

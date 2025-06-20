@@ -1,0 +1,36 @@
+## 🔮 Planned Features
+
+NullOps is still in beta, and many more features are planned to expand its capabilities. Here's what will be coming in future updates:
+
+### 🗃 File Management
+- Copy individual files and directories to new locations
+- Move files between folders
+- Rename files and folders
+- Sort files by size, type, or creation date
+- Detect and list duplicate files
+
+### 🔎 Search & Scan Tools
+- Scan any and all files for specific keywords or content
+- Filter by file type (e.g., only `.txt`, `.jpg`)
+- Scan by file size (e.g., larger than 50MB)
+- Identify old files (e.g., not modified in over a year)
+
+### ⚠️ Cleanup Tools
+- Secure file deletion (overwrite before delete)
+- Empty or clear specified directories
+- Identify unused or temporary files
+
+### 🔐 Security & Utility (Post-Beta Goals)
+- File encryption & decryption (NullCrypt)
+- Text obfuscation (NullInk)
+- Checksum/hash validation tools (MD5, SHA256)
+- Permission and access checks
+
+### 🧰 UI Enhancements
+- WinForms or WPF version with drag-and-drop support
+- Progress bar for large file operations
+- Light/Dark mode UI
+
+---
+
+These features will be added over time as the project evolves. Follow [NullByNature](https://github.com/NullByNature) to stay up to date.

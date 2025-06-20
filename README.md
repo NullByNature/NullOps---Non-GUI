@@ -13,7 +13,6 @@
 
 🔹 **File Operations**
 - Create and delete files
-- Copy files
 - Sort files (by name, date, or size)
 - Scan files for specific keywords
 
